@@ -1,1 +1,1 @@
-# js-module-2-arrays
+# lesson-2-arrays
